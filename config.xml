@@ -2,7 +2,7 @@
 <widget id="io.github.aanjaneyulu" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MMTS</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+       Application to know hyderabad MMTS Live status! 
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
